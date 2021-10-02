@@ -21,7 +21,7 @@ body{
   }
 
   .section_one {
-      background-image: url("/assets/gifpiedra.gif");
+      background-image: url("./assets/gifpiedra.gif");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
